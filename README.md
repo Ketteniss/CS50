@@ -2,9 +2,9 @@
 
  Over my summerbreak I went through CS50 lectures that are avaible online.
 
-   They first taught me fundamentals of C-language (syntax, data types, files, garbage collection)
+   They first taught me fundamentals of C-language (syntax, data types, files, garbage collection).
    
-       Cool things I programmed in C (within the framework of the problem sets): 
+       Cool things I programmed in C (within the course's problem sets): 
            - Creditcard validator (Based on Luhn's algorithm)
            - Bitmap filter (Blur, Grayscale, Reflect, Edges)
            - Spellchecker (Using dictionary)
