@@ -1,4 +1,4 @@
-# cs50
+# CS50
 
  Over my summerbreak I went through CS50 lectures that are avaible online.
 
